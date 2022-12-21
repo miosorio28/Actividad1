@@ -1,1 +1,2 @@
-Este es el original renzoFile.txt, el otro es un impostor
+Este es el original renzoFile.txt, el otro es un impostor. Archivo 
+actualizado
